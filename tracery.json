@@ -1,0 +1,95 @@
+{
+	"name": [
+		"Burt Wonderstone",
+		"Ricky Bobby",
+		"Paul",
+		"Shirley Temple",
+		"Sheldon",
+		"Hermione"
+	],
+	"occupation": [
+		"plumber",
+		"botanist",
+		"police officer",
+		"potato farmer",
+		"racer",
+		"pro surfer"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this emphatically until an #animal# decided to #action# on their shoe.",
+		"We never thought #person# was capable of committing a crime like #something#, until we saw them #eating# a #color# candy bar while listening to #music#. Continue the story at https://www.#thismakesnosense#.com."
+	],
+	"always": [
+		"quite frequently",
+		"not quite often enough",
+		"often",
+		"never",
+		"consistently",
+		"erratically"
+	],
+	"expecting": [
+		"searching",
+		"thinking",
+		"dancing",
+		"waiting",
+		"speeding",
+		"laughing"
+	],
+	"animal": [
+		"orangutan",
+		"electric eel",
+		"iguana",
+		"alligator",
+		"octopus",
+		"emperor penguin"
+	],
+	"action": [
+		"pee",
+		"jump",
+		"step",
+		"spit",
+		"sleep",
+		"read"
+	],
+	"person": [
+		"Billy Bob",
+		"Suzy",
+		"Sandra Dee",
+		"Peter Parker",
+		"Cookie Monster",
+		"Johnny"
+	],
+	"something": [
+		"cheating on a math test",
+		"stepping on a crack",
+		"delivering pizza 30 minutes late",
+		"not liking chicken nuggets",
+		"burning pizza rolls",
+		"disliking The Office"
+	],
+	"eating": [
+		"eating",
+		"licking",
+		"wasting",
+		"trying",
+		"buying"
+	],
+	"color": [
+		"indigo",
+		"neon purple",
+		"hot pink",
+		"dandelion yellow",
+		"fluorescent green"
+	],
+	"music": [
+		"Motion City Soundtrack",
+		"Hall & Oates",
+		"Green Day",
+		"Smash Mouth"
+	],
+	"thismakesnosense": [
+		"weirdthingsthatdidhappen",
+		"notthestoryofmylife",
+		"eatcheese"
+	]
+}
